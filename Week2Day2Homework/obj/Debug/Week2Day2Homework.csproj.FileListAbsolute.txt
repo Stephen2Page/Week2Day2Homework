@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day2Homework\Week2Day2Homework\bin\Debug\Week2Day2Homework.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day2Homework\Week2Day2Homework\bin\Debug\Week2Day2Homework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day2Homework\Week2Day2Homework\bin\Debug\Week2Day2Homework.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day2Homework\Week2Day2Homework\obj\Debug\Week2Day2Homework.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day2Homework\Week2Day2Homework\obj\Debug\Week2Day2Homework.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\Week2Day2Homework\Week2Day2Homework\obj\Debug\Week2Day2Homework.pdb
